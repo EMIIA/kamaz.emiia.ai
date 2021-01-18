@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Khula:600);
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
 body {
   background: transparent;
 }
@@ -8,7 +8,7 @@ body {
 .console-container {
  
   font-family:Khula;
-  font-size:34 px;
+  font-size:44 px;
   text-align:center;
   height:200px;
   width:340px;
