@@ -2,7 +2,7 @@
  consoleText(['Level 4/5', '30% savings', 'ADAS'], 'text',['tomato','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
-  if (colors === undefined) colors = ['black'];
+  if (colors === undefined) colors = ['transparent'];
   var visible = true;
   var con = document.getElementById('console');
   var letterCount = 1;
