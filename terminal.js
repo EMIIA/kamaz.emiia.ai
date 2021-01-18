@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])    
- consoleText(['Level 4/5', '30% savings', 'ADAS'], 'text',['tomato','#336399','lightblue']);
+ consoleText(['Level 4/5', '30% savings', 'ADAS'], 'text',['tomato','white','lightblue']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['transparent'];
