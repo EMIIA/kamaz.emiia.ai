@@ -17,7 +17,6 @@ body {
 
 a {
 	text-decoration: none;
-	color: var(--primary-color);
 }
 
 h1 {
@@ -33,7 +32,7 @@ h1 {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	color: #fff;
+	color: transparent;
 	padding: 0 20px;
 }
 
@@ -63,45 +62,8 @@ h1 {
 	width: 100%;
 	top: 0;
 	left: 0;
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(0, 0, 0, 0);
 	position: absolute;
 }
 
-.content {
-	z-index: 2;
-}
 
-.btn {
-	display: inline-block;
-	padding: 10px 30px;
-	background: var(--primary-color);
-	color: #fff;
-	border-radius: 5px;
-	border: solid #fff 1px;
-	margin-top: 25px;
-	opacity: 0.7;
-}
-
-.btn:hover {
-	transform: scale(0.98);
-}
-
-#about {
-	padding: 40px;
-	text-align: center;
-}
-
-#about p {
-	font-size: 1.2rem;
-	max-width: 600px;
-	margin: auto;
-}
-
-#about h2 {
-	margin: 30px 0;
-	color: var(--primary-color);
-}
-
-.social a {
-	margin: 0 5px;
-}
