@@ -1,6 +1,6 @@
 @btn {
   position: absolute;
-  top: 120%;
+  top: 400%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -14,6 +14,6 @@
   text-align: center;
 }
 
-.container .btn:hover {
+.btn:hover {
   background-color: black;
 }
