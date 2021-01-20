@@ -1,0 +1,29 @@
+@import url(https://www.emiia.ai/cssfamily=Montserrat.css);
+body {
+  background: transparent;
+}
+.hidden {
+  opacity:0;
+}
+.console-container1 {
+ 
+  font-family:Montserrat;
+  font-size: 1.3em;
+  text-align:center;
+  height:200px;
+  width:360px;
+  display:block;
+  position:absolute;
+  color: white;
+  top: 500px;
+  bottom:0;
+  left:0;
+  right:0;
+  margin:auto;
+}
+.console-underscore1 {
+   display:inline-block;
+  position:relative;
+  top:-0.14em;
+  left:0px;
+}
