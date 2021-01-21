@@ -1,6 +1,7 @@
 @import url(https://www.emiia.ai/cssfamily=Montserrat.css);
 body {
   background: transparent;
+  -webkit-backface-visibility: hidden;
 }
 .hidden {
   opacity:0;
