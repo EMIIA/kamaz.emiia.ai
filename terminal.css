@@ -16,6 +16,7 @@ body {
   position:absolute;
   color: white;
   top: 8em;
+  z-index: +21000;
   bottom:0;
   left:0;
   right:0;
