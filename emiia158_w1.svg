@@ -4,7 +4,7 @@
 
 <path  d="M17.38 24.726q0-.507.342-.85.356-.355.863-.355t.849.356q.356.342.356.85 0 .506-.356.862-.342.343-.85.343-.506 0-.862-.343-.343-.356-.343-.863zm2.438 1.767v6.672H17.31v-6.672z">
 
-<animate dur="3s" values="white; transparent; transparent; white" keyTimes="0; 0.5; 0.7; 1" attributeName="fill" repeatCount="indefinite"/>  </path>
+<animate dur="3s" values="white; white; white; white" keyTimes="0; 0.5; 0.7; 1" attributeName="fill" repeatCount="indefinite"/>  </path>
 
 
 
