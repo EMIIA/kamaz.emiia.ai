@@ -10,13 +10,13 @@ body {
   font-family:Montserrat;
   font-size: 1.3em;
   text-align:center;
-  height:100px;
-  width:100px;
+  height:0px;
+  width:0px;
   display:block;
   position:absolute;
   color: white;
   z-index: +22000;
-  top: 28em;
+  top: 25em;
   bottom:0;
   left:0;
   right:0;
