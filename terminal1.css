@@ -15,7 +15,8 @@ body {
   display:block;
   position:absolute;
   color: white;
-  top: 25em;
+  z-index: +22000;
+  top: 28em;
   bottom:0;
   left:0;
   right:0;
